@@ -3,7 +3,7 @@ class name extends component{
     render()
     {
         return(
-            <h1>hii guys</h1>
+            <h1>hii guysss</h1>
         )
     }
 }
